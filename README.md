@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/electric-current-between-us/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Electric Current Between Us](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/electric-current-between-us/) |
+| **Get License** | [Get License For Electric Current Between Us](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/electric-current-between-us/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> There is a spark when you look my way
+> A sudden heat in the cool night air
+> I can feel the static start to play
+> When my fingers run through your hair
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
